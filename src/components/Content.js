@@ -9,7 +9,7 @@ import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles((theme) => ({
     bannerWrap: {
-        height: "90vh",
+        height: "100vh",
         display: "flex"
     },
     ltbg: {
